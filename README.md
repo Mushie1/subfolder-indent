@@ -1,4 +1,5 @@
-# subfolder-indent
+# Subfolder Indent
 A simple module that adds an indent to subfolders
 
-Work in progress: to add customisable setting for indent size
+# Work in progress:
+Add customisable setting for indent size
