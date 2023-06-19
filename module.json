@@ -12,26 +12,26 @@
   "authors": [
     {
     "name": "Mushie",
-	  "discord": "Discord Mushie#6848"
+    "discord": "Discord Mushie#6848"
     }
   ],
  "media": [
         {
-            "type": "cover",
-            "url": "modules/subfolder-indent/examples/banner.jpg"
+  	"type": "cover",
+        "url": "modules/subfolder-indent/examples/banner.jpg"
         },
     	{
-            "type": "screenshot",
-            "url": "modules/subfolder-indent/examples/example1.jpg"
+        "type": "screenshot",
+        "url": "modules/subfolder-indent/examples/example1.jpg"
         },
-		{
-            "type": "screenshot",
-            "url": "modules/subfolder-indent/examples/example2.jpg"
+	{
+        "type": "screenshot",
+        "url": "modules/subfolder-indent/examples/example2.jpg"
         },
-		{
-            "type": "setup",
-			      "caption": "Subfolder Indent",
-            "thumbnail": "modules/subfolder-indent/examples/banner.jpg"
+	{
+        "type": "setup",
+	"caption": "Subfolder Indent",
+        "thumbnail": "modules/subfolder-indent/examples/banner.jpg"
         }
   ],
   "esmodules": [
