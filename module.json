@@ -20,11 +20,11 @@
   	"type": "cover",
         "url": "modules/subfolder-indent/examples/example-on.jpg" 
         },
-    	{
+    	  {
         "type": "screenshot",
         "url": "modules/subfolder-indent/examples/example-off.jpg"
         },
-   {
+        {
         "type": "screenshot",
         "url": "modules/subfolder-indent/examples/settings.jpg"
         }
@@ -36,7 +36,7 @@
     "./styles/style.css"
   ],
    "config": {
-    "maxHeight": {
+    "indent": {
       "name": "Indent",
       "hint": "Set the amount to index each subfolder in pixels.",
       "scope": "world",
