@@ -1,3 +1,8 @@
+##Version 1.0.6
+
+Added user configuration menu to module settings.  Default width is 12px
+
+
 ##Version 1.0.5
 
 Fixed Typos in readme
