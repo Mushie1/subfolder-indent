@@ -8,8 +8,8 @@ Install module, and activate.
 Add customisable setting for indent size
 
 ## Preview
-Without Module
+###Without Module
 ![Without module active](/examples/example-off.jpg)
 
-With Module Active
+###With Module Active
 ![With module active](/examples/example-on.jpg)
