@@ -18,7 +18,7 @@
  "media": [
         {
   	"type": "cover",
-        "url": "https://github.com/Mushie1/subfolder-indent/examples/example-on.jpg" 
+        "url": "modules/subfolder-indent/examples/example-on.jpg" 
         },
     	{
         "type": "screenshot",
