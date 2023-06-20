@@ -9,7 +9,9 @@ Add customisable setting for indent size
 
 ## Preview
 *Without Module*
+
 ![Without module active](/examples/example-off.jpg)
 
 *With Module Active*
+
 ![With module active](/examples/example-on.jpg)
