@@ -1,5 +1,5 @@
 # Subfolder Indent
-A simple module that adds an indent to subfolders
+A simple module that increases the size of the indent to subfolders
 
 ## How to Use
 Install module, and activate.
