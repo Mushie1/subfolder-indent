@@ -31,6 +31,15 @@
   "styles": [
     "./styles/style.css"
   ],
+   "config": {
+    "maxHeight": {
+      "name": "Indent",
+      "hint": "Set the amount to index each subfolder in pixels.",
+      "scope": "world",
+      "config": true,
+      "default": 12,
+      "type": "Number"
+    },
   "url": "#{URL}#",
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
