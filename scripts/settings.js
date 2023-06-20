@@ -1,18 +1,18 @@
 ﻿Hooks.on('init', () => {
-  game.settings.register('subfolder', 'maxHeight', {
-    name: 'Max Height',
-    hint: 'Set the maximum height of the filepicker directory in pixels.',
+  game.settings.register('subfolder-indent', 'indent', {
+    name: 'Indent',
+    hint: 'Set the amount to index each subfolder in pixels.',
     scope: 'client',
     config: true,
-    default: 200,
+    default: 12,
     type: Number,
     onChange: value => {
-      document.documentElement.style.setProperty('--wfb-resizer-max-height', `${value}px`);
+      document.documentElement.style.setProperty('--subfolder-indent', `${value}px`);
     }
   });
 });
 
 Hooks.on('ready', () => {
-  const maxHeight = game.settings.get('wylies-file-browser-resizer', 'maxHeight');
-  document.documentElement.style.setProperty('--wfb-resizer-max-height', `${maxHeight}px`);
+  const maxHeight = game.settings.get('subfolder-indent', 'indent');
+  document.documentElement.style.setProperty('--subfolder-indent', `${indent}px`);
 });
