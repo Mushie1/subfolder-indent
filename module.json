@@ -24,6 +24,10 @@
         "type": "screenshot",
         "url": "modules/subfolder-indent/examples/example-off.jpg"
         }
+   {
+        "type": "screenshot",
+        "url": "modules/subfolder-indent/examples/settings.jpg"
+        }
   ],
   "esmodules": [
     "./scripts/settings.js"
