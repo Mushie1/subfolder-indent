@@ -1,8 +1,9 @@
-/* the first number changes the width of the indentation */
+/* the first number changes the width of the indentation 
+var(--subfolder-indent, 12px) -> is a variable in the modules settings in Foundry VTT, default is 12px*/
 
 /*The rgba changes the colour of the sub folder - note this will get overwritten if the Folder is edited in game */
 
 .subdirectory 
 { 
-  border-left: 12px solid rgba(255, 255, 255, 0.2);
+  border-left: var(--subfolder-indent, 12px) solid rgba(255, 255, 255, 0.2);
 }
