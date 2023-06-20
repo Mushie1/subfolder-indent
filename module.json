@@ -18,20 +18,11 @@
  "media": [
         {
   	"type": "cover",
-        "url": "modules/subfolder-indent/examples/banner.jpg"
+        "url": "modules/subfolder-indent/examples/example-on.jpg"
         },
     	{
         "type": "screenshot",
-        "url": "modules/subfolder-indent/examples/example1.jpg"
-        },
-	{
-        "type": "screenshot",
-        "url": "modules/subfolder-indent/examples/example2.jpg"
-        },
-	{
-        "type": "setup",
-	"caption": "Subfolder Indent",
-        "thumbnail": "modules/subfolder-indent/examples/banner.jpg"
+        "url": "modules/subfolder-indent/examples/example-off.jpg"
         }
   ],
   "esmodules": [
