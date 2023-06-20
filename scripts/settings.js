@@ -1,5 +1,5 @@
 ﻿Hooks.on('init', () => {
-  game.settings.register('wylies-file-browser-resizer', 'maxHeight', {
+  game.settings.register('subfolder', 'maxHeight', {
     name: 'Max Height',
     hint: 'Set the maximum height of the filepicker directory in pixels.',
     scope: 'client',
