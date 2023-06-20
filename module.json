@@ -36,7 +36,7 @@
     "./styles/style.css"
   ],
    "config": {
-    "indent": {
+    "subfolder-indent": {
       "name": "Indent",
       "hint": "Set the amount to index each subfolder in pixels.",
       "scope": "world",
