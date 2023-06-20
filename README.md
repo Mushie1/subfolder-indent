@@ -17,4 +17,5 @@ Default is 12 px
 ![With module active](/examples/example-on.jpg)
 
 *Settings Menu*
+
 ![With module active](/examples/settings.jpg)
