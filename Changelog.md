@@ -1,3 +1,7 @@
+##Version 1.0.5
+
+Fixed Typos in readme
+
 ##Version 1.0.4
 
 Added the actual examples folder with preview pics to the module....oops
