@@ -1,7 +1,7 @@
 {
   "id": "subfolder-indent",
   "title": "Subfolder Indent",
-  "description": "<p>A simple module that customises the folder indent of subfolders</p>",
+  "description": "<p>A simple module that increases the size of the indent of subfolders</p>",
   "version": "#{VERSION}#",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
