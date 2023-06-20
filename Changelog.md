@@ -1,3 +1,8 @@
+Verion 1.0.3
+
+20th June 2023
+Added preview pics to Readme.md
+
 Version 1.0.1
 
 19th June 2023
