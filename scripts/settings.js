@@ -13,6 +13,6 @@
 });
 
 Hooks.on('ready', () => {
-  const maxHeight = game.settings.get('subfolder-indent', 'indent');
+  const indent = game.settings.get('subfolder-indent', 'indent');
   document.documentElement.style.setProperty('--subfolder-indent', `${indent}px`);
 });
