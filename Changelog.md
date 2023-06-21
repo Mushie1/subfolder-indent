@@ -1,3 +1,8 @@
+##Version 1.0.7
+
+Fixed error popping up due to incorrect variable reference
+
+
 ##Version 1.0.6
 
 Added user configuration menu to module settings.  Default width is 12px
