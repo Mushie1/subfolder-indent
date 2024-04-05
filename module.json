@@ -4,10 +4,10 @@
   "description": "<p>A simple module that increases the size of the indent of subfolders</p>",
   "version": "#{VERSION}#",
   "library": "false",
-  "manifestPlusVersion": "1.2.0",
+  "manifestPlusVersion": "1.2.1",
   "compatibility": {
     "minimum": 10,
-    "verified": 11
+    "verified": 12
   },
   "authors": [
     {
