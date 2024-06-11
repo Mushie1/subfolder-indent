@@ -1,5 +1,8 @@
+##Version 1.0.9
+Change v12 verification to general v12
+
 ##Version 1.0.8
-Added verified in v12
+Added verified in v12.324
 
 ##Version 1.0.7
 Fixed error popping up due to incorrect variable reference
