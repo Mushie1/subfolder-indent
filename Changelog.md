@@ -1,3 +1,6 @@
+##Version 1.0.10
+manifestPlusVersion field in module.json to remove package warning in v12
+
 ##Version 1.0.9
 Change v12 verification to general v12
 
