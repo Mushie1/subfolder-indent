@@ -19,3 +19,6 @@ Default is 12 px
 *Settings Menu*
 
 ![With module active](/examples/settings.jpg)
+
+#Known Issues
+This currently doenst work with PF system 6.4+
