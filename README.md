@@ -20,5 +20,5 @@ Default is 12 px
 
 ![With module active](/examples/settings.jpg)
 
-##Known Issues
+## Known Issues
 This currently doenst work with PF system 6.4+
